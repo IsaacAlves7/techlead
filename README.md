@@ -1,4 +1,7 @@
 # Tech Lead Toolbox
+<img width="720" height="1600" alt="Screenshot_20220307-072539_Gmail" src="https://github.com/user-attachments/assets/33fe523f-d7f9-4b37-a37e-6e354523c8cd" />
+<img width="720" height="844" alt="Screenshot_20231003-130033_Instagram" src="https://github.com/user-attachments/assets/67c6c356-0f94-4b25-9b8a-b874960294d7" />
+<img width="720" height="1600" alt="Screenshot_20220307-072600_Gmail" src="https://github.com/user-attachments/assets/3a620316-35f6-49ee-a52f-80156868b9f2" />
 
 **The origin Tech Lead articles is need to delete. And now I working on build the tools for Tech Lead, welcome to join us.**
 
